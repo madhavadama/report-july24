@@ -8,4 +8,6 @@ grade:
   - subject: English
     grade: A
   - subject: Science
-    grade: A+  
+    grade: A+
+  - subject: Computer
+    grade: A
